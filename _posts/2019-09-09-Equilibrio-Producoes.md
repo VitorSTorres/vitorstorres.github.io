@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0s
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: Audiovisual
 tags:
-  - writting
+  - writing
   - movies
   - directing
   - design
