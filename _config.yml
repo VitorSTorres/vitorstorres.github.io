@@ -1,11 +1,11 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: vsfolio
+title: Vflix | A intuitive portfolio
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  Thiago Rossener. Edited by Vitor da Silva Torres
 tags:
   - blog
-  - template
+  - portfolio
   - jekyll
   - theme
   - netlify
@@ -19,17 +19,14 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: contato.vitor.s.torres@gmail.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+github_username: github_VitorSTorres
+linkedin_username: linkedin_/vitor-da-silva-torres-4264641b5
 medium_username: medium_username
 
 
