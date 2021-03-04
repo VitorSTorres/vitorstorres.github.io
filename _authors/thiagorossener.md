@@ -1,6 +1,5 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
 name: Vitor S. Torres
 display_name: Vitor S. Torres
 position: Student
