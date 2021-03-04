@@ -1,7 +1,7 @@
 ---
 layout: author
 name: Vitor S. Torres
-image: ![WhatsApp_Image_2021-03-03_at_21 46 27](https://user-images.githubusercontent.com/62526655/110027432-b97f2b80-7d10-11eb-8704-12d4e8b2ef00.jpeg)
+photo: https://avatars.githubusercontent.com/u/62526655?s=60&v=4
 display_name: Vitor S. Torres
 position: Student
 bio: If there is no passion, than why?
