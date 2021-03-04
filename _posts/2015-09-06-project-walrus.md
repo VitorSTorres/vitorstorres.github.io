@@ -4,8 +4,8 @@ layout: post
 title: Project Walrus
 subtitle:
 description: A revolted young game designer created a game just to change the "War" mechanics.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
+image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e0bd28106627615.5f94324f71248.png
+optimized_image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e0bd28106627615.5f94324f71248.png
 category: game design
 tags:
   - game design
