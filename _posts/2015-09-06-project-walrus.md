@@ -1,5 +1,5 @@
 ---
-date: 2015-09-06 12:00:00
+date: 2021-02-25 12:00:00
 layout: post
 title: Project Walrus
 subtitle:
@@ -15,9 +15,7 @@ author: Vitor S. Torres
 published: true
 ---
 
-# Project Walrus
-
-The came from the idea of creating a more strategic version of the classic War. During the creation process, new mechanics and points systems were made. Appealing to strategy hardcore gamers.
+It came from the idea of creating a more strategic version of the classic War. During the creation process, new mechanics and points systems were made. Appealing to strategy hardcore gamers.
 
 ![https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6ee14c106627615.5f94324f71e52.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6ee14c106627615.5f94324f71e52.png)
 
