@@ -3,9 +3,9 @@ date: 2021-03-03 13:24:49
 layout: post
 title: Project B.A.N.G
 description: A city of crime, a paradise of crime. Yet only one will rule.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg![image](https://user-images.githubusercontent.com/62526655/110005925-ca6f7300-7cf7-11eb-898d-df781774d991.png)
+image: https://user-images.githubusercontent.com/62526655/110005910-c5aabf00-7cf7-11eb-8223-405af5ad177a.png
 
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg![image](https://user-images.githubusercontent.com/62526655/110005935-ccd1cd00-7cf7-11eb-976a-7f01423a5790.png)
+optimized_image: https://user-images.githubusercontent.com/62526655/110005910-c5aabf00-7cf7-11eb-8223-405af5ad177a.png
 
 category: game design
 tags:
