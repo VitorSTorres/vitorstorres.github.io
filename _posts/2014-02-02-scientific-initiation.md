@@ -4,8 +4,8 @@ layout: post
 title: Scientific Initiation
 subtitle: Undergraduated Research.
 description: How fans created their own universe?
-image: https://mir-s3-cdn-cf.behance.net/project_modules/disp/df02a6106953851.5f9b85dce605b.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/df02a6106953851.5f9b85dce605b.png 1196w
-optimized_image: https://mir-s3-cdn-cf.behance.net/project_modules/disp/df02a6106953851.5f9b85dce605b.png 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/df02a6106953851.5f9b85dce605b.png 1196w
+image: https://i.imgur.com/Qg9t3M5.jpg
+optimized_image: https://i.imgur.com/Qg9t3M5.jpg
 category: academic
 tags:
   - writing
