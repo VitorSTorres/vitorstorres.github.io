@@ -49,6 +49,3 @@ I am a GM, Game Master, for tabletop role-playing games for years, narrating and
 Send an e-mail to: 
 
 contato.vitor.s.torres@gmail.com
-
-> "It isn't a compliment, just the truth."
->-> Vitor S. Torres
