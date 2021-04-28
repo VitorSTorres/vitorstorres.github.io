@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Vflix
+title: Vflix
+description: Streaming projects.
 tags:
-  - blog
-  - template
+  - portfolio
+  - audiovisual
   - jekyll
   - theme
-  - netlify
+  - student
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: contato.vitor.s.torres@gmail.com
 disqus_username: disqus_username
