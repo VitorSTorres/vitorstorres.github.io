@@ -23,7 +23,7 @@ Project made for the Storytelling class at college. The objective was to create 
 
 ### Script for download:
 
-[Roteiro FT.pdf](https://github.com/VitorSTorres/vitorstorres.github.io/files/6525343/Roteiro.FT.pdf)
+[Script FT.pdf](https://github.com/VitorSTorres/vitorstorres.github.io/files/6525343/Script.FT.pdf)
 
 
 ## Pitch:
