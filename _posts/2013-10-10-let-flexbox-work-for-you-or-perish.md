@@ -4,8 +4,9 @@ layout: post
 title: The Last Entry of Father Time
 subtitle:
 description: Pitch and script for a magic show as an brand entertainment
-image: https://cdn.cloudflare.steamstatic.com/steam/apps/914210/capsule_616x353.jpg?t=1587661847
-optimized_image: https://cdn.cloudflare.steamstatic.com/steam/apps/914210/capsule_616x353.jpg?t=1587661847
+image: ![bg](https://user-images.githubusercontent.com/62526655/119205143-cab51a00-ba6d-11eb-9ec7-2e0a8a2b99af.png)
+optimized_image: ![bg](https://user-images.githubusercontent.com/62526655/119205157-d9033600-ba6d-11eb-8580-9ce0c6071efe.png)
+
 category: Audiovisual
 tags:
   - pitch
