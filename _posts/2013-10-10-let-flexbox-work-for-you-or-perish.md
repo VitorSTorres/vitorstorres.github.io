@@ -1,142 +1,51 @@
 ---
-date: 2017-08-14 22:55:45
+date: 2021-04-01 23:04:08
 layout: post
-title: Let flexbox work for you or perish
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: css
+title: The Last Entry of Father Time
+subtitle:
+description: Pitch and script for a magic show as an brand entertainment
+image: https://cdn.cloudflare.steamstatic.com/steam/apps/914210/capsule_616x353.jpg?t=1587661847
+optimized_image: https://cdn.cloudflare.steamstatic.com/steam/apps/914210/capsule_616x353.jpg?t=1587661847
+category: Audiovisual
 tags:
-  - css
-  - frontend
-author: thiagorossener
-published: false
+  - pitch
+  - storytelling
+  - writting
+  - content
+author: Vitor S. Torres
+published: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+ Last Entry of Father Time
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Project made for the Storytelling class at college. The objective was to create a brand entertainment. I decided to challenge myself tackling with a live magic show. This project consists in a piching with the bible and main concepts of the show, brand I decided to work with and the entire script of the show.
 
-## Inline HTML elements
+### Script for download:
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+[Roteiro FT.pdf](https://github.com/VitorSTorres/vitorstorres.github.io/files/6525343/Roteiro.FT.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
+## Pitch:
+![1](https://user-images.githubusercontent.com/62526655/119204073-ee2a9580-ba6a-11eb-9aea-49952bc5b17c.png)
+![2](https://user-images.githubusercontent.com/62526655/119204074-eec32c00-ba6a-11eb-8346-8f425e83b79e.png)
+![3](https://user-images.githubusercontent.com/62526655/119204075-ef5bc280-ba6a-11eb-83f1-4b27e4b4e81f.png)
+![4](https://user-images.githubusercontent.com/62526655/119204076-ef5bc280-ba6a-11eb-9c79-c901581c1b60.png)
+![5](https://user-images.githubusercontent.com/62526655/119204078-eff45900-ba6a-11eb-86e5-b76952ea8e76.png)
+![6](https://user-images.githubusercontent.com/62526655/119204079-eff45900-ba6a-11eb-8654-951a97b5279a.png)
+![7](https://user-images.githubusercontent.com/62526655/119204081-f08cef80-ba6a-11eb-8896-edd029794b66.png)
+![8](https://user-images.githubusercontent.com/62526655/119204082-f08cef80-ba6a-11eb-8959-69b173e9d30f.png)
+![9](https://user-images.githubusercontent.com/62526655/119204084-f1258600-ba6a-11eb-8141-47362347ec53.png)
+![10](https://user-images.githubusercontent.com/62526655/119204085-f1258600-ba6a-11eb-8c4c-f659df66b3d7.png)
+![11](https://user-images.githubusercontent.com/62526655/119204086-f1be1c80-ba6a-11eb-8171-16a552f36daf.png)
+![12](https://user-images.githubusercontent.com/62526655/119204088-f1be1c80-ba6a-11eb-98aa-9357610650c1.png)
+![13](https://user-images.githubusercontent.com/62526655/119204089-f256b300-ba6a-11eb-820c-9ea0f43ee34c.png)
+![14](https://user-images.githubusercontent.com/62526655/119204090-f256b300-ba6a-11eb-8151-ac8b09571f38.png)
+![15](https://user-images.githubusercontent.com/62526655/119204092-f2ef4980-ba6a-11eb-9750-034bd43bab3f.png)
+![16](https://user-images.githubusercontent.com/62526655/119204095-f387e000-ba6a-11eb-93d5-5753de41bdb7.png)
+![17](https://user-images.githubusercontent.com/62526655/119204096-f387e000-ba6a-11eb-9ae2-c7cd6fd1cf22.png)
+![18](https://user-images.githubusercontent.com/62526655/119204098-f4207680-ba6a-11eb-9146-6c2e1f61e8f3.png)
+![19](https://user-images.githubusercontent.com/62526655/119204099-f4207680-ba6a-11eb-9d1f-abe1c9bf0a00.png)
+![20](https://user-images.githubusercontent.com/62526655/119204100-f4207680-ba6a-11eb-9f3c-4efb157087e8.png)
 
 
