@@ -24,7 +24,7 @@ Project made for the Storytelling class at college. The objective was to create 
 
 ### Script for download:
 
-[Script FT.pdf](/assets/img/Script-FT.pdf)
+[Script FT.pdf](/assets/img/Script-FT.pdf){:target="_blank"}
 
 
 ## Pitch:
