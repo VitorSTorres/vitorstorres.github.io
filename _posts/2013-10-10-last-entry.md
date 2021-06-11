@@ -20,14 +20,14 @@ published: true
 
  Last Entry of Father Time
 
-Project made for the Storytelling class at college. The objective was to create a brand entertainment. I decided to challenge myself tackling with a live magic show. This project consists in a piching with the bible and main concepts of the show, brand I decided to work with and the entire script of the show.
+Project made for the Storytelling class at college. The objective was to create a brand entertainment. I decided to challenge myself tackling with a live magic show. This project consists in the Technical File and main concepts of the show, brand wich I decided to work with and the entire script of the show.
 
 ### Script for download:
 
 [Script FT.pdf](/assets/img/Script-FT.pdf){:target="_blank"}
 
 
-## Pitch:
+## Technical File:
 ![1](https://user-images.githubusercontent.com/62526655/119204073-ee2a9580-ba6a-11eb-9aea-49952bc5b17c.png)
 ![2](https://user-images.githubusercontent.com/62526655/119204074-eec32c00-ba6a-11eb-8346-8f425e83b79e.png)
 ![3](https://user-images.githubusercontent.com/62526655/119204075-ef5bc280-ba6a-11eb-83f1-4b27e4b4e81f.png)
