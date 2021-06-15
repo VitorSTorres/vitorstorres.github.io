@@ -7,10 +7,11 @@ permalink: /about/
 
 # About
 
-![WhatsApp_Image_2021-03-03_at_21 46 27](https://user-images.githubusercontent.com/62526655/110022275-7ae67280-7d0a-11eb-8b98-4886f296005f.jpeg)
+![1598035802656](https://user-images.githubusercontent.com/62526655/122113251-39309200-cdf8-11eb-8712-00c3934f9f4b.jpg)
 
 
-My name is Vitor da Silva Torres, 20, from São Paulo, Brazil. Currently a student of  Social Communication: Publicity and Propaganda at ESPM, also performed undergraduated research for it.
+
+My name is Vitor da Silva Torres, 21, from São Paulo, Brazil. Currently a student of  Social Communication: Publicity and Propaganda at ESPM, also performed undergraduated research for it.
 
 > First, think. Second, dream. Third, believe. And finally dare.
 >->      Walt Disney
@@ -19,7 +20,7 @@ My name is Vitor da Silva Torres, 20, from São Paulo, Brazil. Currently a stude
 
 ## Areas of Interest
 
-My dream is to tell stories. Game Design and Screenwriting are my main goals, it allows for me not only to tell stories and pass emotions but also give challenges, engage and interact with the players. From other medias definetly japanese animations (anime) and cinema are definetly my go to. Also pretending to write books, fiction and academic ones.
+My dream is to tell stories. Game Design and Screenwriting are my main goals, it allows for me not only to tell stories and pass emotions but also give challenges, engage and interact with the players. From other medias definetly japanese animations (anime) and cinema are my go to. Also pretending to write books, fiction and academic ones.
 
 > “90% of what is considered "impossible" is, in fact, possible. The other 10% will become possible with the passage of time & technology.”
 >->      Hideo Kojima
