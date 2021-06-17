@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: About
@@ -7,8 +8,7 @@ permalink: /about/
 
 # About
 
-![1598035802656](https://user-images.githubusercontent.com/62526655/122113251-39309200-cdf8-11eb-8712-00c3934f9f4b.jpg)
-
+![for portfolio](https://user-images.githubusercontent.com/62526655/122324155-b0504e00-cefe-11eb-9133-e853ce274e87.png)
 
 
 My name is Vitor da Silva Torres, 21, from São Paulo, Brazil. Currently a student of  Social Communication: Publicity and Propaganda at ESPM, also performed undergraduated research for it.
