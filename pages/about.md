@@ -38,7 +38,7 @@ I am a GM, Game Master, for tabletop role-playing games for years, narrating and
 
 ## CV
 
-[CV.pdf](https://github.com/VitorSTorres/vitorstorres.github.io/files/6086570/CV.pdf)
+[Resume.pdf](https://github.com/VitorSTorres/vitorstorres.github.io/files/7228283/Resume.pdf)
 
 > “Take your work seriously, but don't take yourself seriously”
 >->      Clint Eastwood
